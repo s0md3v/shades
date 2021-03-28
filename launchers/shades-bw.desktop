@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=shades-bw
+Comment=black & white of shades
+Exec=shades bw
+Terminal=true
+Icon=/usr/share/icons/shades-bw.png
+Categories=System;

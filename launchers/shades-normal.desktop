@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=shades-normal
+Comment=normal mode of shades
+Exec=shades normal
+Terminal=true
+Icon=/usr/share/icons/shades-normal.png
+Categories=System;

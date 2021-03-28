@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=shades-dark
+Comment=dark mode of shades
+Exec=shades dark
+Terminal=true
+Icon=/usr/share/icons/shades-dark.png
+Categories=System;
