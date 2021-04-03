@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=shades-bw
-Comment=black & white of shades
+Comment=black & white mode of shades
 Exec=shades bw
 Terminal=true
 Icon=/usr/share/icons/shades-bw.png
